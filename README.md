@@ -20,7 +20,7 @@ I am Jegathesh, a passionate **Technical Writer and Web developer**. I have a ba
 ![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code)
 ![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 
-🚀 **Currently Learning:** React.js, RESTful APIs, and Technical Writing Best Practices.
+🚀 **Currently Learning:** React.js, RESTful APIs, and AI / ML.
 
 ---
 

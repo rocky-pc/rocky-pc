@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am Jegathesh, a passionate **Technical Writer and Web developer**. I have a background in **Information Technology**. Currently, I am exploring **React.js** and sharpening my skills for a career in the IT industry.
+I am Jegathesh, a passionate **Software developer | React Specialist **. I have a background in **Information Technology**. Currently, I am exploring **React.js** and sharpening my skills for a career in the IT industry.
 
 📌 **Looking for opportunities** in **Technical Writing, Software Development, and Content Creation**.
 
